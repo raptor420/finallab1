@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\Final1\Final1\bin\Debug\Final1.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Final1\Final1\bin\Debug\Final1.exe
+c:\users\admin\documents\visual studio 2015\Projects\Final1\Final1\bin\Debug\Final1.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Final1\Final1\obj\Debug\Final1.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Final1\Final1\obj\Debug\Final1.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\Final1\Final1\obj\Debug\Final1.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Final1\Final1\obj\Debug\Final1.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Final1\Final1\obj\Debug\Final1.exe
+c:\users\admin\documents\visual studio 2015\Projects\Final1\Final1\obj\Debug\Final1.pdb
